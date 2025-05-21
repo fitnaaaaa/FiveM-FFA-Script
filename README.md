@@ -17,7 +17,7 @@ Dieses FFA Script Benötigt keine Externen Resourcen wie ESX/QB CORE oder sonst 
 - **`currentFFA`**  
   gibt dir Wieder in Welcher Lobby du Bist
 
-  - **`currentFFAConfig`**  
+- **`currentFFAConfig`**  
   gibt dir die Config der Lobby wieder
 
 ---
